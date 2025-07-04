@@ -1,5 +1,4 @@
-# Proyecto de C++ - [Nombre del Juego]
-
+# Proyecto de C++ - Pokemon
 ## Descripción del Proyecto
 
 Breve descripción del juego, su propósito, cómo se juega y cualquier otro detalle importante que describa la idea general del proyecto.
